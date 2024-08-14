@@ -1,0 +1,21 @@
+nav ul {
+
+    list-style: none;
+    // float:right;
+    padding: 0;
+    margin: 0;
+    // height: inherit;
+    // line-height: 25px;
+    
+}
+
+nav ul li {
+    display: inline-flex;
+    padding: 50px;
+}
+
+nav ul li a{
+    display:grid;
+    text-align: center;
+    min-width: 120px; 
+}
